@@ -9,9 +9,9 @@ For this mini-project you're going to create a basic angular Application from sc
 * Create a 'index.html' file, a 'styles.css' file, and a 'js' folder.
 * In your 'index.html' file create a basic skeleton of your application. Be sure to include the following
     - A Doctype
-    - Opening and closing '''<html>''' tags
-    - Opening and closing '''<head>''' and '''<body>''' tags
-    - A link to your 'styles.css' file in your '''<head>''' section **CSS files always go in your '''<head>''' section while JavaScript files will always go before the closing '''</body>''' tag.
+    - Opening and closing '''html<html>''' tags
+    - Opening and closing '''html<head>''' and '''html<body>''' tags
+    - A link to your 'styles.css' file in your '''html<head>''' section **CSS files always go in your '''html<head>''' section while JavaScript files will always go before the closing '''html</body>''' tag.
 * To verify your additions are correct, add a paragraph tag to your html that says 'Woo' and in your styles.css file make the background of the entire page green. Then open up index.html in a browser to verify you see 'Woo' and the background is green. If correct, remove 'woo' and the green styling from your css.
 
 
